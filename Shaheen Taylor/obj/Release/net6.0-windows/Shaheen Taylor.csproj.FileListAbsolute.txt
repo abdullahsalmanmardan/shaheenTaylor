@@ -1,0 +1,31 @@
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\Shaheen Taylor.exe
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\Shaheen Taylor.deps.json
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\Shaheen Taylor.runtimeconfig.json
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\Shaheen Taylor.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\Shaheen Taylor.pdb
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\Dapper.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.csproj.AssemblyReference.cache
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen_Taylor.CompletedOrder.resources
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen_Taylor.Form1.resources
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen_Taylor.Measurement.resources
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen_Taylor.PendingOrder.resources
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen_Taylor.Properties.Resources.resources
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen_Taylor.SEARCHBTDATE.resources
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen_Taylor.SearchCustomer.resources
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.csproj.GenerateResource.cache
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.AssemblyInfoInputs.cache
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.AssemblyInfo.cs
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.csproj.CoreCompileInputs.cache
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.csproj.CopyComplete
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\refint\Shaheen Taylor.dll
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.pdb
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\Shaheen Taylor.genruntimeconfig.cache
+C:\Users\abdullah salman\Desktop\Shaheen Taylor\Shaheen Taylor\obj\Release\net6.0-windows\ref\Shaheen Taylor.dll
